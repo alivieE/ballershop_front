@@ -1,0 +1,15 @@
+.text-W{
+    text-align: center;
+    align-items: center;
+}
+.main-W{
+    align-items: center;
+}
+.li-W{
+    list-style: none;
+}
+.photo-W{
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
